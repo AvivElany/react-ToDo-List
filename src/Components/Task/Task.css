@@ -1,0 +1,13 @@
+.Task {
+    text-align:center;
+    list-style-type: none;
+    cursor: pointer;
+
+
+    .done {
+        list-style-type: none;
+        color: red;
+        text-decoration: line-through;
+    }
+
+}
